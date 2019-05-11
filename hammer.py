@@ -73,11 +73,12 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	Hammer-DDos Santet Attack Tool Zombie
-	Penyerangan web ini dengan virus Zombie.
-	Test script.  ip target sampai tak berdaya. \n
+	print (''' \033[92m	AGENCYBERINDO
+	Penyerangan web ini dengan File BangPey87.
+	ip target sampai tak berdaya. \n
 	ketikan contoh : python hammer.py [-s ip target] [-p 80] [-t 135]
-	-h : tolong
+	AGENCYBERINDO GROUP WA
+	-h : Semua kode perintah
 	-s : ip target cuy
 	-p : port otomatis 80
 	-t : turbo otomatis 135 \033[0m''')
