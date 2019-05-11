@@ -75,9 +75,9 @@ def dos2():
 def usage():
 	print (''' \033[92m	AGENCYBERINDO
 	Penyerangan web ini dengan File BangPey87.
-	ip target sampai tak berdaya. \n
+	Serang ip target sampai tak berdaya. \n
 	ketikan contoh : python hammer.py [-s ip target] [-p 80] [-t 135]
-	AGENCYBERINDO GROUP WA
+	Salam AGENCYBERINDO Berbagi itu Indah
 	-h : Semua kode perintah
 	-s : ip target cuy
 	-p : port otomatis 80
