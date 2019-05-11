@@ -73,14 +73,14 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	Hammer-DDos Attack Tool v1.0
-	It is the end user's responsibility to obey all applicable laws.
-	It is just for server testing script. Your ip is visible. \n
-	usage : python3 hammer.py [-s] [-p] [-t]
+	print (''' \033[92m	Hammer-DDos Santet Attack Tool Zombie
+	Penyerangan web ini dengan virus Zombie.
+	Test script.  ip target sampai tak berdaya. \n
+	ketikan contoh : python hammer.py [-s ip target] [-p 80] [-t 135]
 	-h : tolong
 	-s : ip target cuy
-	-p : port default 80
-	-t : turbo default 135 \033[0m''')
+	-p : port otomatis 80
+	-t : turbo otomatis 135 \033[0m''')
 	sys.exit()
 
 
