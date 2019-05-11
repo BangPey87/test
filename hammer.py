@@ -76,13 +76,12 @@ def usage():
 	print (''' \033[92m	AGENCYBERINDO
 	Penyerangan web ini dengan File BangPey87.
 	Serang ip target sampai tak berdaya. \n
-	ketikan contoh : python hammer.py [-s ip target] [-p 80] [-t 135]
 	Salam AGENCYBERINDO Berbagi itu Indah
+	ketikan contoh : python hammer.py [-s IP target] [-p 80] [-t 135]
 	-h : Semua kode perintah
 	-s : ip target cuy
 	-p : port otomatis 80
 	-t : turbo otomatis 135 \033[0m''')
-	python hammer.py [-s 192.168.xxx.x] [-p 80] [-t 135]
 	sys.exit()
 
 
