@@ -82,6 +82,7 @@ def usage():
 	-s : ip target cuy
 	-p : port otomatis 80
 	-t : turbo otomatis 135 \033[0m''')
+	python hammer.py [-s 192.168.xxx.x] [-p 80] [-t 135]
 	sys.exit()
 
 
